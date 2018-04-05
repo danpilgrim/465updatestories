@@ -39,4 +39,4 @@ gpg --output "$fileName" --sign "$fileName.gpg"
 
 echo "TERMINAL: created encrypted message file"
 echo "TERMINAL: $fileName"
-rm "$fileName.gpg"
+
